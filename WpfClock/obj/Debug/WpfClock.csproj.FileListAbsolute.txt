@@ -1,0 +1,14 @@
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\bin\Debug\WpfClock.exe.config
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\bin\Debug\WpfClock.exe
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\bin\Debug\WpfClock.pdb
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\MainWindow.g.cs
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\App.g.cs
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock_MarkupCompile.cache
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock_MarkupCompile.lref
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\MainWindow.baml
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock.g.resources
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock.Properties.Resources.resources
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock.csproj.GenerateResource.cache
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock.csproj.CoreCompileInputs.cache
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock.exe
+C:\Users\Jinu\source\repos\WpfApp1\WpfClock\obj\Debug\WpfClock.pdb

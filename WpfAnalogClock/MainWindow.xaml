@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfAnalogClock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAnalogClock"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="315" Margin="72,64,0,0" VerticalAlignment="Top" Width="331">
+            <Canvas x:Name="canvas1" HorizontalAlignment="Left" Height="295" Margin="10,10,0,0" VerticalAlignment="Top" Width="311">
+                <Ellipse x:Name="aClock" Fill="#FFF4F4F5" Height="275" Canvas.Left="10" Stroke="Black" Canvas.Top="10" Width="291"/>
+            </Canvas>
+        </Grid>
+
+    </Grid>
+</Window>
