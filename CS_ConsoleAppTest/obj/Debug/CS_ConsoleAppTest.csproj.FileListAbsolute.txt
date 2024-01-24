@@ -1,0 +1,7 @@
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\obj\Debug\CS_ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\bin\Debug\CS_ConsoleAppTest.exe.config
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\bin\Debug\CS_ConsoleAppTest.exe
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\bin\Debug\CS_ConsoleAppTest.pdb
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\obj\Debug\CS_ConsoleAppTest.exe
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\obj\Debug\CS_ConsoleAppTest.pdb
+C:\Users\Jinu\source\repos\WpfApp1\CS_ConsoleAppTest\obj\Debug\CS_ConsoleAppTest.csprojAssemblyReference.cache

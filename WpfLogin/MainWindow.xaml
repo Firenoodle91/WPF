@@ -8,7 +8,12 @@
         Title="MainWindow" Height="186.769" Width="180.153">
     <Grid Margin="0,0,-8,-21">
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="138" Margin="10,10,0,0" VerticalAlignment="Top" Width="154">
-            <StackPanel/>
+            <StackPanel>
+                <Separator Height="33" Margin="0" RenderTransformOrigin="0.499,0.593"/>
+                <TextBox x:Name="txtUserName" Height="23" TextWrapping="Wrap"/>
+                <PasswordBox x:Name="txtPassword"/>
+                <Button Content="Button" Height="25" Click="Button_Click"/>
+            </StackPanel>
         </Border>
 
     </Grid>
